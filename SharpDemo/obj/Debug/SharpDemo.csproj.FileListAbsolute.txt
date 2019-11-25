@@ -1,0 +1,5 @@
+D:\999个人\C#\projects\SharpDemo\SharpDemo\bin\Debug\SharpDemo.exe
+D:\999个人\C#\projects\SharpDemo\SharpDemo\bin\Debug\SharpDemo.pdb
+D:\999个人\C#\projects\SharpDemo\SharpDemo\obj\Debug\SharpDemo.csprojResolveAssemblyReference.cache
+D:\999个人\C#\projects\SharpDemo\SharpDemo\obj\Debug\SharpDemo.exe
+D:\999个人\C#\projects\SharpDemo\SharpDemo\obj\Debug\SharpDemo.pdb
