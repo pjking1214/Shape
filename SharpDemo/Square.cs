@@ -31,5 +31,10 @@ namespace ShapeDemo
 			return edge ;
 		}
 		
+		public override double Area()
+		{
+			return edge * edge ;
+		}
+		
 	}
 }

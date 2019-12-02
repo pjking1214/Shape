@@ -46,5 +46,10 @@ namespace ShapeDemo
 		{
 			return Math.Sqrt((x-s.x)*(x-s.x)+(y-s.y)*(y-s.y));
 		}
+		
+		public virtual double Area()
+		{
+			return 0.0 ;
+		}
 	}
 }

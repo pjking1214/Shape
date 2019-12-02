@@ -31,5 +31,10 @@ namespace ShapeDemo
 		{
 			
 		}
+		
+		public override double Area()
+		{
+			return    width * width * Math.Sin(Math.PI/3) / 2 ;
+		}
 	}
 }

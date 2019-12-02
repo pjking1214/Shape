@@ -22,7 +22,7 @@ namespace ShapeDemo
 		{
 		}
 		
-		public void setRadius(double reaius)
+		public void setRadius(double radius)
 		{
 			this.radius = radius ;
 		}
@@ -30,6 +30,11 @@ namespace ShapeDemo
 		public double getRadius()
 		{
 			return radius ;
+		}
+		
+		public override double Area()
+		{
+			return Math.PI * radius *radius ;
 		}
 
 	}
