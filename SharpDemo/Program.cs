@@ -10,7 +10,7 @@
  //this is a test
 using System;
 
-namespace SharpDemo
+namespace ShapeDemo
 {
 	class Program
 	{
@@ -39,6 +39,12 @@ namespace SharpDemo
 			Console.WriteLine("disc2="+disc2);
 			
 			// TODO: Implement Functionality Here
+			
+			Triangle t1= new Triangle();
+			t1.setX(3);
+			t1.setY(4);
+			t1.setWidth(5);
+			Console.WriteLine("width="+t1.getWidth());
 			
 			Console.Write("Press any key to continue . . . ");
 			Console.ReadKey(true);

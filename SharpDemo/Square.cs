@@ -8,12 +8,12 @@
  */
 using System;
 
-namespace SharpDemo 
+namespace ShapeDemo 
 {
 	/// <summary>
 	/// Description of Square.
 	/// </summary>
-	public class Square : Sharp
+	public class Square : Shape
 	{
 		private double edge;
 		

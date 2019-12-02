@@ -8,17 +8,17 @@
  */
 using System;
 
-namespace SharpDemo
+namespace ShapeDemo
 {
 	/// <summary>
-	/// Description of Sharp.
+	/// Description of Shpe.
 	/// </summary>
-	public class Sharp
+	public class Shape
 	{
 		protected double x;
 		protected double y;
 		
-		public Sharp()
+		public Shape()
 		{
 		}
 		
@@ -42,7 +42,7 @@ namespace SharpDemo
 			return y ;
 		}
 		
-		public double distance(Sharp s)
+		public double distance(Shape s)
 		{
 			return Math.Sqrt((x-s.x)*(x-s.x)+(y-s.y)*(y-s.y));
 		}

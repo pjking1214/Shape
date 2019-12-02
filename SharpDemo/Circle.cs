@@ -8,12 +8,12 @@
  */
 using System;
 
-namespace SharpDemo 
+namespace ShapeDemo 
 {
 	/// <summary>
 	/// Description of Circle.
 	/// </summary>
-	public class Circle : Sharp
+	public class Circle : Shape
 	{
 		private double radius;
 		
